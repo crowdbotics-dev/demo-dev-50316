@@ -42,5 +42,6 @@ export const modulesOptions = {
     "title": "App Menu",
     "copy": "Routes available!",
     "styles": styles
-  }
+  },
+  "@modules/appointment": {}
 };
